@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/f2edf5bd-f837-488a-9be8-812d15e5952a)
+<h1 align="center">![Image](https://github.com/user-attachments/assets/f2edf5bd-f837-488a-9be8-812d15e5952a)</h1>
 
 <h1 align="center">Hi 👋, I'm Luis Angelo</h1>
 <h3 align="center">A good for nothing lazy who wants to make my momma proud.</h3>
