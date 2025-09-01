@@ -1,6 +1,5 @@
-<center>
-![Image](https://github.com/user-attachments/assets/ad29ea3c-8ad3-406c-bbae-7d2e85cdb873)
-</center>
+
+![Image](https://github.com/user-attachments/assets/6dd14f6d-3ad4-4c1d-b422-8490d45bfc49)
 
 <h1 align="center">Hi 👋, I'm Luis Angelo</h1>
 <h3 align="center">A good for nothing lazy who wants to make my momma proud.</h3>
