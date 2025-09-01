@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Angelo</h1>
 <h3 align="center">A good for nothing lazy who wants to make my momma proud.</h3>
 
-![Image](https://github.com/user-attachments/assets/ad29ea3c-8ad3-406c-bbae-7d2e85cdb873)
+<h3 align="center">![Image](https://github.com/user-attachments/assets/ad29ea3c-8ad3-406c-bbae-7d2e85cdb873)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
