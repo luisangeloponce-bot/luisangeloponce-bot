@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Angelo</h1>
 <h3 align="center">A good for nothing lazy who wants to make my momma proud.</h3>
 
+![Image](https://github.com/user-attachments/assets/ad29ea3c-8ad3-406c-bbae-7d2e85cdb873)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/luis.angelo.ponce.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luis.angelo.ponce.2024" height="30" width="40" /></a>
