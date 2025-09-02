@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2edf5bd-f837-488a-9be8-812d15e5952a" alt="GIF" width="400" />
+  <img src="https://github.com/user-attachments/assets/953d412d-990e-4370-9abd-2917ecb4adeb" alt="GIF" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Luis Angelo</h1>
